@@ -1,2 +1,2 @@
 Hello , I am Nitesh Vishwakarma 
-currently i am revesing git , github and gitlab
+currently i am revesing git , github and gitlab and later i will learn github action ci /cd also 
